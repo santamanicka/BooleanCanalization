@@ -2,6 +2,12 @@
 
 An R library for computing canalization measures — specifically **effective connectivity (K_eff)** and **unified canalization (K_u)** — for Boolean functions and Boolean networks.
 
+## References
+
+> Manicka, S. (2017). The role of canalization in the spreading of perturbations in Boolean networks. *PhD Dissertation*, Indiana University.
+
+> Manicka, S., Marques-Pita, M., & Rocha, L. M. (2022). Effective connectivity determines the critical dynamics of biochemical networks. *Journal of the Royal Society Interface*, 19(186), 20210659.
+
 ## Overview
 
 Canalization in Boolean networks refers to the phenomenon where certain input configurations dominate the output, effectively reducing the number of inputs that matter for a given function. This library quantifies canalization through two complementary measures:
